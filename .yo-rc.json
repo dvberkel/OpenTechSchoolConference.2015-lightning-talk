@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "CodePancake",
+    "packageVersion": "1.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "dvberkel",
+    "githubRepository": "OpenTechSchoolConference.2015-lightning-talk."
+  }
+}
