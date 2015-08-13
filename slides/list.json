@@ -1,4 +1,9 @@
 [
     "codepancake.md",
-    "website.html"
+    {
+        "filename": "website.html",
+        "attr": {
+            "data-background": "image/website.png"
+        }
+    }
 ]
