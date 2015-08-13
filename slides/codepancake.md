@@ -1,1 +1,1 @@
-![CodePancake](image/CodePancake.png)
+![CodePancake](image/CodePancake.png)<!-- .element class="codepancake logo"-->
